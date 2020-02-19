@@ -377,8 +377,8 @@ SCS_equestria_fascism:0 "이퀘스트리아 연합국"
 SCS_equestria_fascism_DEF:0 "이퀘스트리아 연합국"
 SCS_equestria_fascism_ADJ:0 "이퀘스트리아 연합국"
 
-LSP_technocracy_neutrality:0 "이퀘스트리아 기술"
-LSP_technocracy_neutrality_DEF:0 "이퀘스트리아 기술"
+LSP_technocracy_neutrality:0 "이퀘스트리아 기술관료정"
+LSP_technocracy_neutrality_DEF:0 "이퀘스트리아 기술관료정"
 LSP_technocracy_neutrality_ADJ:0 "이퀘스트리아"
 
 NMS_neutrality:0 "밤"
